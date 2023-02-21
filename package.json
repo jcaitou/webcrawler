@@ -1,0 +1,23 @@
+{
+  "name": "webcrawler",
+  "version": "1.0.0",
+  "description": "Following this tutorial: https://youtu.be/2JYT5f2isg4",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcaitou/webcrawler.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jcaitou/webcrawler/issues"
+  },
+  "homepage": "https://github.com/jcaitou/webcrawler#readme",
+  "devDependencies": {
+    "jest": "^29.4.3"
+  }
+}
